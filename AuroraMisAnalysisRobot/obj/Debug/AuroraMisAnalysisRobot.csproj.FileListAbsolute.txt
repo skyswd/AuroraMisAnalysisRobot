@@ -1,0 +1,83 @@
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\obj\Debug\Bot Application1.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\obj\Debug\Bot Application1.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Bot Application1.dll.config
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Bot Application1.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Bot Application1.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Autofac.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Chronic.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\HtmlAgilityPack.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.Bot.Builder.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.Bot.Connector.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Newtonsoft.Json.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.Net.Http.Formatting.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.Web.Http.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.Web.Http.WebHost.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Autofac.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\HtmlAgilityPack.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\HtmlAgilityPack.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.Bot.Builder.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.Bot.Connector.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\Newtonsoft.Json.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.Net.Http.Formatting.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.Web.Http.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\System.Web.Http.WebHost.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisRobot\AuroraMisRobot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Bot Application1.dll.config
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Bot Application1.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Bot Application1.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Autofac.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Chronic.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\HtmlAgilityPack.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.Bot.Builder.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.Bot.Connector.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Newtonsoft.Json.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.Net.Http.Formatting.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.Web.Http.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.Web.Http.WebHost.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Autofac.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\HtmlAgilityPack.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\HtmlAgilityPack.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.Bot.Builder.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.Bot.Connector.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\Newtonsoft.Json.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.Net.Http.Formatting.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.Web.Http.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\System.Web.Http.WebHost.xml
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\obj\Debug\AuroraMisAnalysisRobot.csprojResolveAssemblyReference.cache
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\obj\Debug\Bot Application1.dll
+C:\Users\skyswd\Documents\Visual Studio 2015\Projects\AuroraMisAnalysisRobot\AuroraMisAnalysisRobot\obj\Debug\Bot Application1.pdb
